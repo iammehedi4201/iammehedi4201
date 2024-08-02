@@ -1,6 +1,4 @@
-<a href="https://www.facebook.com/profile.php?id=100006605889867">
-<img src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FfggPHeac91odLYzUxFUEAb%2FMehedi%3Fnode-id%3D38-2603%26m%3Ddev%26scaling%3Dmin-zoom%26content-scaling%3Dfixed%26page-id%3D0%253A1%26t%3DHL8ROj2yFkhztfIm-1" />
-</a>
+[View the prototype on Figma](https://www.figma.com/proto/fggPHeac91odLYzUxFUEAb/Mehedi?node-id=38-2603&m=dev&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&t=HL8ROj2yFkhztfIm-1)
 
 ## :chart_with_upwards_trend: Current Stats
 
