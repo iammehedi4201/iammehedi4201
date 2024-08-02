@@ -23,7 +23,7 @@
 <p align="center">
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
-<img  height="60" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
+<img  height="60" width="80" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/c.png"/>
 
 </p>
