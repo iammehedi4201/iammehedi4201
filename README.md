@@ -24,7 +24,7 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
 <img  height="50" width="50" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
-<img height="60" src="Images/technologies/typescript-original.svg"/>
+<imgheight="55" width="55" src="Images/technologies/typescript-original.svg"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/c.png"/>
 
 </p>
