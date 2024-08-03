@@ -13,7 +13,7 @@
 
 <br />
 
-[<p align="center">[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/mehedi-hasan-4b81131a6/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">]</p>](https://www.facebook.com/profile.php?id=100006605889867)
+[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">(https://www.linkedin.com/in/mehedi-hasan-4b81131a6/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">]</p>](https://www.facebook.com/profile.php?id=100006605889867)
 
 <br />
 
