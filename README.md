@@ -52,7 +52,7 @@
 
 ## :eyes: Current overview
 
-### 🔭 I’m working - In Qwik It.
+### 🔭 I’m working - In Antopolis.
 
 ### 🌱 I’m exploring - Next.js Latest Features.
 
